@@ -1,4 +1,4 @@
-# 使用vue基于element搭建的一个banner滚动架子
+# 使用vue基于element搭建的一个简易官架子
 
 ## Project setup
 ```
