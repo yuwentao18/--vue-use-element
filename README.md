@@ -1,4 +1,4 @@
-# guanwang1
+# 使用vue基于element搭建的一个banner滚动架子
 
 ## Project setup
 ```
